@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GogoLookHomework</string>
+
+    <!--  Main page  -->
+    <string name="action_search">Search</string>
+
+    <!--  Search page  -->
+    <string name="search_input_hint">Search it!!</string>
+    <string name="search_empty_message">Searching empty</string>
+</resources>
